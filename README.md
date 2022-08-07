@@ -1,5 +1,5 @@
  <img src="image/rgb-rainbow.gif" height=5px width=100%>
- <img src="image/rgb-rainbow.gif" height=1000px width=5px align=left margin=-100px>
+ <img src="image/rgb-rainbow.gif" height=1000px width=5px align=left padding=-100px>
  <img src="image/rgb-rainbow.gif" height=1000px width=5px align=right>
 
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
