@@ -1,6 +1,7 @@
  ---
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
+### Meu nome é Adriano Barroso e estou me dedicando atualmente em JavaScript e pretendo futuramente me tornar Dev Full Stack!
 - 🌱 Aprendendo atualmente JavaScript
 - 📫 How to reach me: 
 
