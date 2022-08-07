@@ -1,9 +1,11 @@
  ---
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
-### Olá! Meu nome é Adriano Barroso.
+## Olá! Meu nome é Adriano Barroso.
 - 🌱 Atualmente apreendendo JavaScript
-- 📫 How to reach me: 
+- 🏫 Cursando Coding na UNINASSAU
+ 
+## 📫 Contato:
 
 [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api?username=AdrianoBarroso1&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5&show_icons=true)](https://github.com/AdrianoBarroso1/)
 [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarroso1&hide=html&layout=compact&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5)](https://github.com/AdrianoBarroso1/)
