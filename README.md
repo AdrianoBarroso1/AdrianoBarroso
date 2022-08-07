@@ -1,8 +1,8 @@
  ---
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
-### Meu nome é Adriano Barroso e estou me dedicando atualmente em JavaScript e pretendo futuramente me tornar Dev Full Stack!
-- 🌱 Aprendendo atualmente JavaScript
+### Olá! Meu nome é Adriano Barroso.
+- 🌱 Atualmente apreendendo JavaScript
 - 📫 How to reach me: 
 
 [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api?username=AdrianoBarroso1&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5&show_icons=true)](https://github.com/AdrianoBarroso1/)
