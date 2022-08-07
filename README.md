@@ -1,4 +1,5 @@
- ---
+ <img src="image/Barrra-Verde.png" height=5px width=1000px>
+
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
 ## Olá! Meu nome é Adriano Barroso.
