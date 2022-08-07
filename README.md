@@ -1,13 +1,11 @@
  ---
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
- <a href='https://br.freepik.com/fotos-vetores-gratis/programacao'>Programação vetor criado por storyset - br.freepik.com</a>
+- 🌱 Aprendendo atualmente JavaScript
+- 📫 How to reach me: 
 
-
- 
-  [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api?username=AdrianoBarroso1&theme=tokyonight)](https://github.com/AdrianoBarroso1/)
-
- [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarroso1&hide=html&layout=compact&theme=tokyonight)](https://github.com/AdrianoBarroso1/)
+[![AdrianoBarroso1](https://github-readme-stats.vercel.app/api?username=AdrianoBarroso1&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5&show_icons=true)](https://github.com/AdrianoBarroso1/)
+[![AdrianoBarroso1](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarroso1&hide=html&layout=compact&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5)](https://github.com/AdrianoBarroso1/)
 
 <a href="">
   <image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
