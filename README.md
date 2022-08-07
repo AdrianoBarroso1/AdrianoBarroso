@@ -1,5 +1,7 @@
  ---
- <image src="image/1.png" align=right width=400px height=400>
+ <image src="image/Developer activity-bro.png" align=right width=400px height=400>
+
+ <a href='https://br.freepik.com/fotos-vetores-gratis/programacao'>Programação vetor criado por storyset - br.freepik.com</a>
 
 
  
