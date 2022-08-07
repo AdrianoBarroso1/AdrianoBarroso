@@ -1,4 +1,6 @@
  <img src="image/rgb-rainbow.gif" height=5px width=100%>
+ <img src="image/rgb-rainbow.gif" height=1000px width=5px align=left>
+ <img src="image/rgb-rainbow.gif" height=1000px width=5px align=right>
 
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
@@ -20,4 +22,4 @@
 [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api?username=AdrianoBarroso1&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5&show_icons=true)](https://github.com/AdrianoBarroso1/)
 [![AdrianoBarroso1](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBarroso1&hide=html&layout=compact&title_color=263238&text_color=515b60&icon_color=75b687&bg_color=def7e5)](https://github.com/AdrianoBarroso1/)
 
----
+ <img src="image/rgb-rainbow.gif" height=5px width=100%>
