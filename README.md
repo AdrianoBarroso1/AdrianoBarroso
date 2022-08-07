@@ -1,4 +1,4 @@
- <img src="image/rgb-rainbow.gif" height=5px width=820px>
+ <img src="image/rgb-rainbow.gif" height=5px width=100%>
 
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
