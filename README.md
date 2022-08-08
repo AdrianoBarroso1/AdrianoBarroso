@@ -3,7 +3,7 @@
  ## Olá! Meu nome é Adriano Barroso.
  <image src="image/Developer activity-bro.png" align=right width=400px height=400>
 
-- 🌱 Atualmente apreendendo JavaScript
+- 👨‍💻 Atualmente apreendendo JavaScript
 - 🏫 Cursando Coding na [UNINASSAU](https://www.uninassau.edu.br/)
 - 
  
